@@ -1,7 +1,4 @@
-- 👋 Hello, everyone! This is Nimishka. 
-- 👀 I'm deeply passionate about continuous learning and contributing positively to data-driven initiatives. 
-- 🌱 I’m currently pursuing Masters in Technology in Computer Science and Engineering
-- 📫 Get in touch with me on LinkedIn.
+- 👋 Hello, everyone! This is Nimishka!
 
 <!---
 ThisIsNimishka/ThisIsNimishka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
